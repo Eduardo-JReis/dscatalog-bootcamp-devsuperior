@@ -23,7 +23,7 @@ import com.devsuperior.dscatalog.services.exceptions.ResourceNotFoundException;
 
 @Service
 public class ProductService {
-
+	
 	@Autowired
 	private ProductRepository repository;
 	
